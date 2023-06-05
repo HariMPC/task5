@@ -1,0 +1,64 @@
+{
+    "basics": {
+      "name": "HARI SUDHAN M",
+      "age" : "24",
+      "email": "harimurugan763979@gmail.com",
+      "phone": "7639792221.",
+      "degree": "M.Sc in Applied Electronics"
+    },
+    "Address":
+    {
+      "Door NO": "149a",
+      "address line 1": "baba street, dekis pettai",
+      "city": "Dharmapuri",
+      "State": "Tamil Nadu",
+      "postalCode": "636 701"
+    },
+    "education": [
+      {
+        "college": "Psg college of arts and Science",
+        "degree": "applied Electronics",
+        "startDate": "2019-07-15 ",
+        "endDate": "2021-07-21",
+        "gpa": "78"
+      },
+      {
+        "college": "Psg college of arts and Science",
+        "degree": "Electronics",
+        "startDate": "2016-07-15 ",
+        "endDate": "2019-06-21",
+        "gpa": "60"
+      },
+      {
+        "School": "shree vijay vidhalaya ",
+        "degree": "HSC",
+        "startDate": "2015-06-02 ",
+        "endDate": "2016-05-10",
+        "gpa": "77"
+      },
+      {
+        "School": "shree vijay vidhalaya ",
+        "degree": "SSLC",
+        "startDate": "2013-06-02 ",
+        "endDate": "2014-05-10",
+        "gpa": "88"
+      }
+    ],
+    "languages Known": [
+      {
+        "language": "TAMIL",
+        "fluency": "EXCELENT"
+      },
+      {
+        "language": "ENGLISH",
+        "fluency": "EXCELENT"
+      }
+    ],
+    "interests": 
+    [
+      {
+        "field": "cricket",
+        "field1":"movies and tv shows"      }
+      ]
+
+}
